@@ -1,3 +1,3 @@
 # TLV
 
-using TLV code communicate between a server and clients
+Use TLV coder communicate between a server and clients
